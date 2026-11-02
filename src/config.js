@@ -82,11 +82,11 @@ export const faqs = [
 
 // [PLACEHOLDER] Depoimentos: use apenas relatos reais, autorizados pelas pacientes,
 // sem promessa de resultado (Resolução CFM 2.336/2023). Deixe a lista vazia para ocultar a seção.
-// export const testimonials = [
-//   { text: '[PLACEHOLDER: depoimento real e autorizado de paciente]', author: 'Paciente, iniciais' },
-//   { text: '[PLACEHOLDER: depoimento real e autorizado de paciente]', author: 'Paciente, iniciais' },
-//   { text: '[PLACEHOLDER: depoimento real e autorizado de paciente]', author: 'Paciente, iniciais' },
-// ]
+export const testimonials = [
+  // { text: '[PLACEHOLDER: depoimento real e autorizado de paciente]', author: 'Paciente, iniciais' },
+  // { text: '[PLACEHOLDER: depoimento real e autorizado de paciente]', author: 'Paciente, iniciais' },
+  // { text: '[PLACEHOLDER: depoimento real e autorizado de paciente]', author: 'Paciente, iniciais' },
+];
 
 // Texto "Sobre" (revisado a partir do texto enviado pelo Dr. Ivan)
 export const about = {
